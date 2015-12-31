@@ -1,0 +1,23 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+#Global Settings
+timezone: America/Denver
+permalink: pretty
+
+# Site settings
+title: Cory Simon -- the website
+email: cory@corysimon.com
+description: > # this means to ignore newlines until "baseurl:"
+ Cory Simon -- the website is brought to you by Cory Simon, the generous support of people like you, and the letter Q. The author would like to specially thank his parents, Richard and Colleen, whose unwavering support has enabled this project. We now return to your regularly scheduled programming.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://corysimon.com" # the base hostname & protocol for your site
+twitter_username: _CorySimon
+github_username:  Cory-Simon
+
+# Build settings
+markdown: kramdown
